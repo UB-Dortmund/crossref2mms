@@ -8,19 +8,19 @@ This code is licenced under the MIT Licence.
 
 ## Contact
 
-Dipl.-Math. Hans-Georg Becker (M.L.I.S.)
-ORCID iD <http://orcid.org/0000-0003-0432-294X>
+Dipl.-Math. Hans-Georg Becker (M.L.I.S.)\
+ORCID iD https://orcid.org/0000-0003-0432-294X
 
-Bibliotheks-IT / Datenmanagement und Informationssysteme
+Bibliotheks-IT / Informationssysteme und Datenmanagement 
 
-Technische Universität Dortmund
-Universitätsbibliothek
-Vogelpothsweg 76
-44227 Dortmund
+Technische Universität Dortmund\
+Universitätsbibliothek\
+Vogelpothsweg 76\
+44227 Dortmund\
 
-Tel.  : +49 231-755 40 36
+Tel.  : +49 231-755 40 36\
 Fax   : +49 231-755 40 32
 
-hans-georg.becker@tu-dortmund.de
-daten.ub@tu-dortmund.de
-http://www.ub.tu-dortmund.de
+hans-georg.becker@tu-dortmund.de\
+daten.ub@tu-dortmund.de\
+https://www.ub.tu-dortmund.de
