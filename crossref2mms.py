@@ -161,7 +161,10 @@ def crossref2mms(doi=''):
         if record.get('message').get('ISBN'):
             isbns = []
             for isbn in record.get('message').get('ISBN'):
-                isbns.append(isbn.strip().split('isbn/')[1])
+                if 'isbn/' in isbn.strip():
+                    isbns.append(isbn.strip().split('isbn/')[1])
+                else:
+                    isbns.append(isbn.strip())
             mms_json.setdefault('isbn', isbns)
 
     return mms_json
