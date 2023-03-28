@@ -1,3 +1,6 @@
+**HINT: This project is out of date and internally not relevant anymore!**
+
+
 # CrossRef to MMS JSON transformer
 
 This code transforms the JSON serialization of the CrossRef API data for a record of a given DOI to the JSON representation of the entity collection in the Metadata Management System (MMS).
